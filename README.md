@@ -4,13 +4,13 @@ Beginning Golang developer from Moscow
 
 ![](https://komarev.com/ghpvc/?username=Teranikys&style=for-the-badge&color=blue)
 
-About me:
+## About me:
 - Study at RTU MIREA
 - Learn Go and really wand to become a Golang developer to make the world a better place
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Teranikys&theme=ambient-gradient&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-Languages and Tools I use:
+## Languages and Tools I use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" **alt="Golang" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
