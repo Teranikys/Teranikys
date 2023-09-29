@@ -1,12 +1,12 @@
 ### Hi there 👋, I\`m Vlad
 
-Beginning Golang developer from Moscow
+Beginning backend developer from Moscow
 
 ![](https://komarev.com/ghpvc/?username=Teranikys&style=for-the-badge&color=blue)
 
 ## About me:
 - Study at RTU MIREA
-- Learn Go and really want to become a Golang developer to make the world a better place
+- Learn backend and really want to become a good developer to make the world a better place
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Teranikys&theme=ambient-gradient&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
