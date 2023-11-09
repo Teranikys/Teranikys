@@ -3,16 +3,16 @@
     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=teranikys&data=followers,repositories,stars,commits&theme=dev" alt="GitHub WidgetBox" />
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=linux,git,docker,postgresql,mongodb&includeNames=true&theme=dev" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=java,cpp,go,python,bash,html,css&includeNames=true&theme=dev" alt="GitHub WidgetBox" />
+    <img width="45%" src="https://github-widgetbox.vercel.app/api/skills?tools=linux,git,docker,postgresql,mongodb&includeNames=true&theme=dev" alt="GitHub WidgetBox" />
+    <img width="54%" src="https://github-widgetbox.vercel.app/api/skills?names=java,cpp,go,python,bash,html,css&includeNames=true&theme=dev" alt="GitHub WidgetBox" />
   </a>
 </p>
 
 <hr>
 
 <p align="center">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=teranikys&count_private=true&show_icons=true&theme=tokyonight" alt="User stats" />
-  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teranikys&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img width="56.25%" src="https://github-readme-stats.vercel.app/api?username=teranikys&count_private=true&show_icons=true&theme=tokyonight" alt="User stats" />
+  <img width="42.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teranikys&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
