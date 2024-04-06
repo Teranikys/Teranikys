@@ -4,7 +4,7 @@
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
     <img width="45%" src="https://github-widgetbox.vercel.app/api/skills?tools=linux,git,docker,postgresql,mongodb&includeNames=true&theme=dev" alt="GitHub WidgetBox" />
-    <img width="54%" src="https://github-widgetbox.vercel.app/api/skills?names=java,cpp,go,python,bash,html,css&includeNames=true&theme=dev" alt="GitHub WidgetBox" />
+    <img width="54%" src="https://github-widgetbox.vercel.app/api/skills?names=go,cpp,python,bash,java,html,css&includeNames=true&theme=dev" alt="GitHub WidgetBox" />
   </a>
 </p>
 
